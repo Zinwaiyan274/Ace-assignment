@@ -4,3 +4,10 @@
 ___
 [documentation of final insights from the data ](https://docs.google.com/document/d/1UensMBB-UvfDT_5kMSoyp7Ei2O8j65actX6AbKSbU6s/edit?usp=sharing)
 
+___
+
+> This is the part of the journey of [ODaD](https://github.com/Zinwaiyan274/One-DS-a-day)
+
+#ODaD
+#Day34, 36 and Day 54
+
