@@ -9,5 +9,4 @@ ___
 > This is the part of the journey of [ODaD](https://github.com/Zinwaiyan274/One-DS-a-day)
 
 #ODaD
-#Day34, 36 and Day 54
-
+#Day34, 38 and Day 
